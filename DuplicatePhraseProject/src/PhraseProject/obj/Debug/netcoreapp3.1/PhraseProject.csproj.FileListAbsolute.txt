@@ -11,3 +11,16 @@ C:\Users\user\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\P
 C:\Users\user\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\PhraseProject.dll
 C:\Users\user\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\PhraseProject.pdb
 C:\Users\user\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\PhraseProject.genruntimeconfig.cache
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\bin\Debug\netcoreapp3.1\PhraseProject.exe
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\bin\Debug\netcoreapp3.1\PhraseProject.deps.json
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\bin\Debug\netcoreapp3.1\PhraseProject.runtimeconfig.json
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\bin\Debug\netcoreapp3.1\PhraseProject.runtimeconfig.dev.json
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\bin\Debug\netcoreapp3.1\PhraseProject.dll
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\bin\Debug\netcoreapp3.1\PhraseProject.pdb
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\PhraseProject.csprojAssemblyReference.cache
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\PhraseProject.AssemblyInfoInputs.cache
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\PhraseProject.AssemblyInfo.cs
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\PhraseProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\PhraseProject.dll
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\PhraseProject.pdb
+C:\Users\user\Sync\C#\DuplicatePhraseProject\src\PhraseProject\obj\Debug\netcoreapp3.1\PhraseProject.genruntimeconfig.cache
